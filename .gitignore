@@ -1,0 +1,11 @@
+._*
+.*.cmd
+.DS_Store
+.tmp_versions/
+*.mod.c
+*.o
+Module.symvers
+modules.order
+modulos/**/*.ko
+referencia/
+.build/

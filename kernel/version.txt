@@ -1,0 +1,2 @@
+Linux kobo 3.0.35+ #4071 PREEMPT Fri Jul 17 16:56:30 CST 2015 armv7l GNU/Linux
+Linux version 3.0.35+ (gallen@gallen-M51AC) (gcc version 4.6.2 20110630 (prerelease) (Freescale MAD -- Linaro 2011.07 -- Built at 2011/08/10 09:20) ) #4071 PREEMPT Fri Jul 17 16:56:30 CST 2015
